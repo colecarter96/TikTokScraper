@@ -1,0 +1,17 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore working files directory
+working files/
+
+# Ignore client secrets file
+client_secrets.json
+
+# Ignore links I've used
+links.txt
+
+# Ignore shorts as I'm not sure its ready, plus if you call it on a video less than 60s it posts as a short
+mainShorts.py
+
+# DS Store
+.DS_Store
